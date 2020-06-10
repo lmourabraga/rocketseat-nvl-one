@@ -1,1 +1,7 @@
-<?xml version="1.0" ?><svg enable-background="new 0 0 128 128" id="Слой_1" version="1.1" viewBox="0 0 128 128" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><rect fill="#A1887F" height="88.6" id="paper_3_" transform="matrix(0.8895 -0.457 0.457 0.8895 -22.727 34.0384)" width="66.4" x="25.8" y="19.7"/><rect fill="#757575" height="88.6" id="paper_2_" transform="matrix(0.9583 -0.2858 0.2858 0.9583 -15.8318 19.5343)" width="66.4" x="25.8" y="19.7"/><rect fill="#78909C" height="88.6" id="paper_1_" transform="matrix(0.9919 -0.1268 0.1268 0.9919 -7.6394 7.9983)" width="66.4" x="25.8" y="19.7"/><rect fill="#8D6E63" height="88" id="paper" width="66" x="26" y="20"/><g id="pastel"><path d="M102.9,17.1l16.4,7.4c1,0.5,1.5,1.6,1,2.6l-41,91.2c-0.5,1-1.6,1.5-2.6,1L60.3,112c-1-0.5-1.5-1.6-1-2.6   l41-91.2C100.7,17.1,101.9,16.6,102.9,17.1z" fill="#FFA726"/><rect fill="#3949AB" height="23" transform="matrix(-0.4096 0.9123 -0.9123 -0.4096 186.7756 1.0339)" width="75" x="55.6" y="49.5"/></g></svg>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="8" y="7" width="48" height="24" fill="#34CB79"/>
+<rect x="55" y="1" width="62" height="46" rx="4" transform="rotate(90 55 1)" stroke="#322153" stroke-width="2"/>
+<line x1="15" y1="37" x2="33" y2="37" stroke="#322153" stroke-width="2" stroke-linejoin="round"/>
+<line x1="15" y1="42" x2="33" y2="42" stroke="#322153" stroke-width="2" stroke-linejoin="round"/>
+<line x1="15" y1="47" x2="33" y2="47" stroke="#322153" stroke-width="2" stroke-linejoin="round"/>
+</svg>
